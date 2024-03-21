@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Izzat Zanail
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python for Data Analysis
-- 📫 Reach me at: [...](https://www.linkedin.com/in/izzatzanail/)
+- 📫 Reach me at: [in/izzatzanail/](https://www.linkedin.com/in/izzatzanail/)
 
 <!---
 IzzatZanail/IzzatZanail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
